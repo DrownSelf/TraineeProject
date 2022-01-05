@@ -1,0 +1,15 @@
+D:\VS files\TraineeProject\TraineeProject\bin\Debug\net6.0\TraineeProject.exe
+D:\VS files\TraineeProject\TraineeProject\bin\Debug\net6.0\TraineeProject.deps.json
+D:\VS files\TraineeProject\TraineeProject\bin\Debug\net6.0\TraineeProject.runtimeconfig.json
+D:\VS files\TraineeProject\TraineeProject\bin\Debug\net6.0\TraineeProject.dll
+D:\VS files\TraineeProject\TraineeProject\bin\Debug\net6.0\ref\TraineeProject.dll
+D:\VS files\TraineeProject\TraineeProject\bin\Debug\net6.0\TraineeProject.pdb
+D:\VS files\TraineeProject\TraineeProject\obj\Debug\net6.0\TraineeProject.csproj.AssemblyReference.cache
+D:\VS files\TraineeProject\TraineeProject\obj\Debug\net6.0\TraineeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS files\TraineeProject\TraineeProject\obj\Debug\net6.0\TraineeProject.AssemblyInfoInputs.cache
+D:\VS files\TraineeProject\TraineeProject\obj\Debug\net6.0\TraineeProject.AssemblyInfo.cs
+D:\VS files\TraineeProject\TraineeProject\obj\Debug\net6.0\TraineeProject.csproj.CoreCompileInputs.cache
+D:\VS files\TraineeProject\TraineeProject\obj\Debug\net6.0\TraineeProject.dll
+D:\VS files\TraineeProject\TraineeProject\obj\Debug\net6.0\ref\TraineeProject.dll
+D:\VS files\TraineeProject\TraineeProject\obj\Debug\net6.0\TraineeProject.pdb
+D:\VS files\TraineeProject\TraineeProject\obj\Debug\net6.0\TraineeProject.genruntimeconfig.cache
