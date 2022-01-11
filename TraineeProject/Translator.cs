@@ -6,15 +6,17 @@ using System.Threading.Tasks;
 
 namespace TraineeProject
 {
-    internal static class Translator
+    internal class Translator : ITranslator
     {
-        public static string LatinConverter(int[,] translationed)
+        public MatrixType args { get; set; }
+
+        public string LatinConverter()
         {
             string translated = "";
-            for (int i = 0; i < translationed.GetLength(0); i++)
+            for (int i = 0; i < args.matrix.GetLength(0); i++)
             {
-                for (int j = 0; j < translationed.GetLength(1); j++)
-                    translated += char.ConvertFromUtf32(translationed[i, j] + 97);
+                for (int j = 0; j < args.matrix.GetLength(1); j++)
+                    translated += char.ConvertFromUtf32(args.matrix[i, j] + 97);
                 //int a = 5;
                 //object b = a;
                 //char c = (char)(int)b;
